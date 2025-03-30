@@ -22,9 +22,9 @@ se dejó libre para que el alumno realizara el análisis que considerase necesar
 
 En mi caso, decidí realizar los siguientes análisis:  
 
-- Mostrar un mapa de calor del salario por región.  
-- Visualizar la relación entre igualdad de género y región.  
-- Mostrar la tasa de crecimiento de la población por región.  
-- Análisis de la brecha salarial.  
-- Análisis de las diferencias salariales entre hombres y mujeres por tipo de trabajo.  
-- Salario base promedio por nivel educativo y por región. *(Aquí se tuvo que reestructurar los datos, ya que su toma fue cambiando con el paso del tiempo. Más detalles en el código).*
+- Show a heatmap of salary per region.  
+- Visualize the relationship between gender equality and region.
+- Display of population growth rate by region.  
+- Wage gap analysis. 
+- Analysis of salary differences between men and women by type of work.  
+- Average base salary by education level and by region. *(Aquí se tuvo que reestructurar los datos, ya que su toma fue cambiando con el paso del tiempo. Más detalles en el código).*
